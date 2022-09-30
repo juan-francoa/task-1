@@ -14,4 +14,15 @@ header img{
 header{
     background-color: #2a363b;
 }
+.footer{
+    background-color: #2a363b;
+}
+.backcard{
+    background-color: #2a363b !important;
+    color: white !important;
+}
+.backcard h5{
+    color: #fecea8;
+}
+
 
